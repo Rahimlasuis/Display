@@ -19,3 +19,7 @@ It displayed an N which mean No.
 The way it works is that if the button is clicked, either Y or N which means yes or no is displayed randomly. It's helps to make random decisions.
 
 Other buttons will be added to display random numbers, shapes, and signs.
+
+
+You can click on this link to try the stimulation yourself.<br>
+https://wokwi.com/projects/479857786576431105
